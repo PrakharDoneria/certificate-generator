@@ -3,3 +3,6 @@ pandas
 reportlab
 fastapi
 uvicorn
+customtkinter
+openpyxl
+pyinstaller
